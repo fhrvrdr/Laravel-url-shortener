@@ -32,7 +32,7 @@ Tech:
 Clone the project:
 
 ```bash
-git clone https://github.com/fhrvrdr/Laravel-contact-app.git
+git clone https://github.com/fhrvrdr/Laravel-url-shortener.git
 ```
 Go to the project directory:
 ```bash
